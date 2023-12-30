@@ -1,5 +1,5 @@
 # 110502503_顏婕葳
-## MIniLISP
+## MiniLISP
 此程式碼使用python以實現MiniLISP的簡易編譯器
 ## Overview
 LISP is an ancient programming language based on S-expressions and lambda calculus.
