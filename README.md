@@ -15,6 +15,6 @@ As a simplified language, Mini-LISP has only three types (Boolean, number and fu
 * Boolean: Boolean type includes two values, #t for true and #f for false.
 * Number: Signed integer from −(2^31) to 2^31 – 1, behavior out of this range is not defined.
 * Function: See Function.
-![image](https://hackmd.io/_uploads/rkRxGrTD6.png)
-![image](https://hackmd.io/_uploads/ry3WGSpDa.png)
+![image](https://github.com/WeiYen1103/Me/assets/144879901/9a61b506-d8bb-48fa-8e5d-81d9f25b58f2)
+![image](https://github.com/WeiYen1103/Me/assets/144879901/62b368e2-4127-49ad-bf74-1079fa545a97)
 
